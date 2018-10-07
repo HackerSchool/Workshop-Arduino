@@ -9,6 +9,6 @@ Programa:
 - Uso e configuração de interrupts externos (attachInterrupt())
 - Debouncing de um sinal de entrada proveniente de um botão.
 
-Requesitos:
+Requisitos:
 - Noções basicas de programação
 - Instalar o Arduino IDE: https://www.arduino.cc/en/Main/Software
