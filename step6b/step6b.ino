@@ -4,7 +4,7 @@
 #define DELAY 500
 
 volatile bool play = false;
-volatile long timer = 0; 
+volatile unsigned long timer = 0; 
 
 void setup() {
   pinMode(BOTAO,INPUT_PULLUP);
